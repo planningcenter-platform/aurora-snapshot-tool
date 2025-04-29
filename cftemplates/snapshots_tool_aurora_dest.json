@@ -305,7 +305,8 @@
 									"rds:ModifyDBClusterSnapshotAttribute",
 									"rds:DescribeDBClusterSnapshotAttributes",
 									"rds:CopyDBClusterSnapshot",
-									"rds:ListTagsForResource"
+									"rds:ListTagsForResource",
+									"rds:AddTagsToResource"
 								],
 								"Resource": "*"
 							}]
