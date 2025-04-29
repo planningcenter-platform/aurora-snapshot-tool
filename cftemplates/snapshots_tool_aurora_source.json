@@ -436,7 +436,7 @@
                   "Action": [
                     "rds:DescribeDBClusters",
                     "rds:DescribeDBClusterSnapshots",
-										"rds:AddTagsToResource"
+                    "rds:AddTagsToResource"
                   ],
                   "Resource": "*"
                 },
